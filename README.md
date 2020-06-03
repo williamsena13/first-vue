@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Customize configuration
+See [Integrate Cordova into Vue Cli App](https://www.npmjs.com/package/vue-cli-plugin-cordova).
